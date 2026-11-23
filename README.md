@@ -2,7 +2,7 @@
 
 **Issue 5 of 30 · Working with the models** · [Read the issue](https://barrosbuilds.com/log) · [All exercises](https://github.com/andrebarros6/learning-log)
 
-**Kind:** inside Claude · **Needs:** a Claude account, git · **Cost:** free
+**Kind:** inside Claude · **Needs:** a Claude account (the free plan works), git · **Cost:** free
 
 Decide what goes in front of the model, and be able to say why you left the rest out.
 
@@ -70,7 +70,7 @@ What's in the repo:
 For each email in `emails/`:
 
 1. **Open a fresh chat.**
-2. Attach or paste [`whole-drive.md`](whole-drive.md) first. Then, in the same message, paste `prompt.md` and the email.
+2. Paste the contents of [`whole-drive.md`](whole-drive.md) first. Long pastes may turn into an attachment; that's fine. Then, in the same message, paste `prompt.md` and the email.
 3. Score the reply against the checks in [TASK.md](TASK.md). Fill in the **Whole drive** column of the scoreboard in LOG.md.
 4. Copy anything the reply says *beyond* the answer (a note to Inês, a warning, a question) into table 4 of LOG.md.
 
